@@ -87,32 +87,6 @@ The database stores information related to:
 
 JDBC is used to establish a connection between the Java application and MySQL database.
 
-📂 Project Structure
-
-Bank-Management-System/
-│
-├── src/
-│   └── ASimulatorSystem/
-│       ├── Login.java
-│       ├── Signup.java
-│       ├── Signup2.java
-│       ├── Signup3.java
-│       ├── Transactions.java
-│       ├── Deposit.java
-│       ├── Withdrawal.java
-│       ├── FastCash.java
-│       ├── BalanceEnquiry.java
-│       ├── MiniStatement.java
-│       └── Pin.java
-│
-├── icons/
-│   └── Application images
-│
-├── database/
-│   └── bank.sql
-│
-└── README.md
-
 🖥️ Screenshots
 
 🔐 Login Screen
